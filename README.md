@@ -4,3 +4,5 @@ this is a simple android project implementing background activity in android app
 I used AlarmManager() for setting the repeated task
 
 this will create alarm every minute
+
+project is done in AS
