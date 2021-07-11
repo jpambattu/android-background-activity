@@ -6,3 +6,5 @@ I used AlarmManager() for setting the repeated task
 this will create alarm every minute
 
 project is done in AS
+
+in repo only included MainActivity.java and Layout file
